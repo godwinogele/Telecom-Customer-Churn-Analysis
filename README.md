@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn-Analysis
 
-This README file accompanies the project analyzing customer churn in the Telecom industry.
+This README file accompanies the project analyzing customer churn in the Telecom industry, utilizing  SPSS for data analysis..
 
 # Project Overview:
 
